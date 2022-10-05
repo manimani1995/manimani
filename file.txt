@@ -1,2 +1,3 @@
 git is a server
 git is soft
+git is light weight
